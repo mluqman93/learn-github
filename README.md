@@ -9,7 +9,8 @@
 
 # Learn Github 🚀
 
-Edit Welcome to Github class! We are thrilled to embark on this exciting learning journey together. 
+Edit Edit 2 
+Welcome to Github class! We are thrilled to embark on this exciting learning journey together. 
 
 <p align="center">
 <img src="images/git.gif"  height="700" />
